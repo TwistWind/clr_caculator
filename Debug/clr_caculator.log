@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+c:\users\twistwind\desktop\test\clr_caculator\MyForm.h(393): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+c:\users\twistwind\desktop\test\clr_caculator\MyForm.h(398): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+c:\users\twistwind\desktop\test\clr_caculator\MyForm.h(403): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+c:\users\twistwind\desktop\test\clr_caculator\MyForm.h(408): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+c:\users\twistwind\desktop\test\clr_caculator\MyForm.h(413): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  clr_caculator.vcxproj -> C:\Users\TwistWind\Desktop\test\clr_caculator\Debug\clr_caculator.exe
